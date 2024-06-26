@@ -1,4 +1,5 @@
 Hello, my name is Gabriel and I'm an enthusiastic software student FullStack
+<br>
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielll&layout=compact&theme=dracula)
 <h1>Languages</h1>
 <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="20px">
