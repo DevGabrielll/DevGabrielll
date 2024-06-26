@@ -3,7 +3,7 @@
 <body>
     <h1>About-me</h1>
     <br>
-        <p>Hello, my name is Gabriel and I'm an enthusiastic software student FullStack </p>
+        <p>Hello, my name is Gabriel and I'm an enthusiastic FullStack software student</p>
     <hr>
     <br>
     <h1>Languages</h1>
