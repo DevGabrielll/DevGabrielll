@@ -1,13 +1,13 @@
 <style>
     h1{
-        font-size: 40px;
+        font-size: 40;
     }
     h2{
-        font-size: 40px;
+        font-size: 40;
     }
     #languages{
         display: flex;
-        margin-left: 20px;
+        margin-left: 20;
     }
 </style>    
 </head>
